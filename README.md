@@ -24,6 +24,6 @@ References:
 ------------
 If you use the TVR-DART Toolbox for your research, we would appreciate it if you would refer to the following papers:
 [1] X. Zhuge, W.J. Palenstijn, K.J. Batenburg, "TVR-DART: A More Robust Algorithm for Discrete Tomography From Limited Projection Data 
-With Automated Gray Value Estimation," IEEE Transactions on Imaging Processing, 2016, vol. 25, issue 1, pp. 455-468
+With Automated Gray Value Estimation," IEEE Transactions on Imaging Processing, 2016, vol. 25, issue 1, pp. 455-468.
 [2] X. Zhuge, H. Jinnai, R.E. Dunin-Borkowski, V. Migunov, S. Bals, P. Cool, A.J. Bons, K.J. Batenburg, 
 "Automated discrete electron tomography - Towards routine high-fidelity reconstruction of nanomaterials," Ultramicroscopy, under revision
