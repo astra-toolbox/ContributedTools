@@ -25,6 +25,12 @@ See the Python code samples:
 s01_recon2D.py
 s02_recon3D.py
 
+Example dataset:
+-------------------------
+The example scripts uses an electron tomography dataset of a Lanthanide-based inorganic nanotube. This data is kindly provided by Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons and Peter Grünberg Institute, Jülich, Germany. This file is too big for Github though, so please download the data via the following link and passphrase:
+https://oc.cwi.nl/index.php/s/w099A7BuTGrJzjl
+passphrase: nanotube
+
 References:
 ------------
 If you use the TVR-DART Toolbox for your research, we would appreciate it if you would refer to the following papers:
