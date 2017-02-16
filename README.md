@@ -27,7 +27,7 @@ s02_recon3D.py
 
 Example dataset:
 -------------------------
-The example scripts uses an electron tomography dataset of a Lanthanide-based inorganic nanotube. This data is kindly provided by Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons and Peter Grünberg Institute, Jülich, Germany. This file is too big for Github though, so please download the data via the following link and passphrase:
+The example scripts uses an electron tomography dataset of a Lanthanide-based inorganic nanotube. This data is kindly provided by Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons and Peter Grünberg Institute, Jülich, Germany. This file is too big for Github though, so please download the data via the following link and passphrase:
 https://oc.cwi.nl/index.php/s/w099A7BuTGrJzjl
 passphrase: nanotube
 
@@ -39,4 +39,4 @@ If you use the TVR-DART Toolbox for your research, we would appreciate it if you
 With Automated Gray Value Estimation," IEEE Transactions on Imaging Processing, 2016, vol. 25, issue 1, pp. 455-468.
 
 [2] X. Zhuge, H. Jinnai, R.E. Dunin-Borkowski, V. Migunov, S. Bals, P. Cool, A.J. Bons, K.J. Batenburg, 
-"Automated discrete electron tomography - Towards routine high-fidelity reconstruction of nanomaterials," Ultramicroscopy, under revision
+"Automated discrete electron tomography - Towards routine high-fidelity reconstruction of nanomaterials," Ultramicroscopy, Volume 175, April 2017, Pages 87–96
